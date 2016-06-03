@@ -1,2 +1,2 @@
-# DCMotorCotrolSystem
-This is created for uploading the homework of DCMotorCotrolSystem.
+# DCMotorControlSystem
+This is created for uploading the homework of DCMotorControlSystem.
